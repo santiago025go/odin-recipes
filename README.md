@@ -1,1 +1,1 @@
-This project is a basic recipe website.The website will consist of a main index page which will have links to a few recipes. I will use basic HTML elements such as lists, paragraphs, headings, and images to build the website.
+This project is a basic recipe website. The website will consist of a main index page which will have links to a few recipes. I will use basic HTML elements such as lists, paragraphs, headings, and images to build the website.
