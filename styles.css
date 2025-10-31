@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #f5ede1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    background-color: #c4b59d;
+    padding: 20px;
+    color: #fff;
+}
+
+.recipes-pages {
+    padding: 50px 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.recipes-pages a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #c4b59d;
+    padding: 20px;
+    width: 10%;
+    text-align: center;
+}
+.recipes-pages a:hover {
+    background-color: #c4c4c4;
+}
