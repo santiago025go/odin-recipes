@@ -29,3 +29,31 @@ h1 {
 .recipes-pages a:hover {
     background-color: #c4c4c4;
 }
+
+a {
+    display: block;
+    padding: 10px 20px;
+    color: #000;
+    text-decoration: none;
+    text-align: right;
+}
+
+a:hover {
+    color: #c4b59d;
+}
+
+img {
+    display: block;
+    margin: 50px auto;
+}
+
+h2 {
+    width: 40%;
+    margin: 50px auto 10px auto;
+}
+
+p, ul, ol {
+    width: 40%;
+    margin: 10px auto 50px auto;
+    text-align: justify;
+}
